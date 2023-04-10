@@ -9,7 +9,7 @@
 The box was programmed with Linux so I spent 2 whole days learning how it worked and one thing leading to another I fixed it. <br/>
 This experience helped me in my choice towards my career change. After a few months of self training I became a student at Le Wagon Paris where I learned a lot, and got convinced once again how much I Like programming ! </p>
 
-<p>My goal now is to keep learning and find a job as a Fulstack Developer !</p>
+<p>My goal now is to keep learning and find a job as a Fullstack Developer !</p>
 
 
 <h4>All in all, I am: </h4>
