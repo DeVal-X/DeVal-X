@@ -18,7 +18,7 @@ This experience helped me in my choice towards my career change. After a few mon
   <li>🔎 A Junior Fullstack Web Developer looking for a job </li>
   <li>📧 Eager to talk with whomever, so here is my mail: <a href="mailto:sir.chamallow@protonmail.com"><em>alexis.velluet@outlook.com</em></a></li>
   <li>📜 Happy to show you my <a href="https://www.canva.com/design/DAFGJGtLaEI/wJoydg0M5_EU8np4rXa2hw/view?utm_content=DAFGJGtLaEI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">resume</a></li>
-  <li>🌱 Currently deepening my skills & knowledge in Ruby/JS with grafikart's lessons and codewars.</li>
+  <li>🌱 Currently deepening my skills & knowledge in Ruby/JS and having fun on codewars.</li>
   <li>🏠 Currently living in Paris, so do not hesitate    ♫ hit me back, just to chat, truly yours, your biggest fan. This is Stan ♫ </li>
 </ul>
 
